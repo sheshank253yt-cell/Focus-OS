@@ -1,0 +1,4 @@
+allowBuilds:
+  '@clerk/shared': true
+minimumReleaseAgeExclude:
+  - lucide-react@1.17.0
